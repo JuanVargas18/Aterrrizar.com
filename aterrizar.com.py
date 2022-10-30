@@ -18,3 +18,6 @@ class Vendido:
 
 class Reservado:
     pass
+
+class Desreservarlo:
+    pass
